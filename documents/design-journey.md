@@ -7,7 +7,7 @@ Be clear and concise in your writing. Bullets points are encouraged.
 **Everything, including images, must be visible in Markdown Preview.** If it's not visible in Markdown Preview, then we won't grade it. We won't give you partial credit either. This is your warning.
 
 
-## Markdown Instructions
+<!-- ## Markdown Instructions
 
 This is a Markdown file. All written documents that you will submit this semester will be Markdown files. Markdown is a commonly used format by developers and bloggers. It's something that you should know. Learning it is a learning outcome of this course.
 
@@ -21,7 +21,7 @@ This is how your insert images into your Markdown documents:
 
 ![this is a text description of the image](example.png)
 
-**DELETE THIS SECTION (and example.png) BEFORE THE FINAL SUBMISSION.**
+**DELETE THIS SECTION (and example.png) BEFORE THE FINAL SUBMISSION.** -->
 
 
 ## Audience & Content
@@ -35,25 +35,31 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about.
 
-Example: (delete this) My website will be about the Grassroots festival in Trumansburg NY.
+My website will be about my personal information and my resume.
 
 
 ### Audience (Milestone 1)
 > Briefly explain who the intended audience(s) is for your website. Be specific and justify why this audience is appropriate for your site's topic.
 
-TODO
+Future or potential employers interested in hiring a software engineer or web designer.
+
+When those employers want to learn more about me and want to see something I designed and built, they will go to my website. So, they are the appropriate audiences.
 
 
 ### Final Content (Milestone 1)
 > Briefly describe the content you plan to include in the final site, and why it's the right content for your audiences.
 
-TODO
+I plan to include my personal information, education and working experience, projects and also some interesting facts that are not on my resume.
+
+The employers want to learn more about me, and the contents above provide those information, so the contents above are right for them.
 
 
 ### Home Page Content (Milestone 1)
 > Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
 
-TODO
+I will include my basic information, a section of "About Me", a photo of me, a navigation bar near the top, and contact information at the footer.
+
+When the audiences visit my homepage, they can make sure that they are on the correct website by reading my basic information. Then a section of "About Me" and the photo will give them a general picture of me in mind. So, this content should be the first thing they see.
 
 
 ## Information Architecture
