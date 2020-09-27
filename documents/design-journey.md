@@ -7,23 +7,6 @@ Be clear and concise in your writing. Bullets points are encouraged.
 **Everything, including images, must be visible in Markdown Preview.** If it's not visible in Markdown Preview, then we won't grade it. We won't give you partial credit either. This is your warning.
 
 
-<!-- ## Markdown Instructions
-
-This is a Markdown file. All written documents that you will submit this semester will be Markdown files. Markdown is a commonly used format by developers and bloggers. It's something that you should know. Learning it is a learning outcome of this course.
-
-The following links are Markdown references:
-- <https://guides.github.com/features/mastering-markdown/>
-- <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-
-When writing your Markdown file in Atom. Open the command palette and search for **Markdown Preview Plus: Toggle**. This will open up a panel in Atom where you can preview your formatted Markdown file. **The graders will grade you submission in Markdown Preview. All images must be visible in Markdown Preview.**
-
-This is how your insert images into your Markdown documents:
-
-![this is a text description of the image](example.png)
-
-**DELETE THIS SECTION (and example.png) BEFORE THE FINAL SUBMISSION.** -->
-
-
 ## Audience & Content
 
 **Make the case for your decisions using concepts from class, as well as other design principles, theories, examples, and cases from outside of class.**
@@ -73,19 +56,27 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 ### Audience (Milestone 2)
 > A clearer description of audience: who are they, what are they interested in with respect to this site, and what are the design goals for that audience.
 
-TODO
+The audiences are future or potential employers interested in hiring a software engineer or web designer. They are interested in what I have accomplished and something I design and build. The design goal is to provide them with my information, experience and projects on the webpage.
 
 ### Organization & Navigation (Milestone 2)
 > A description of how you generated and considered alternatives for the site's content organization and navigation. You are required to include images here of your card sorting for determining the organization of content and the navigation.
 
 > Thoroughly document this process. The _process_ is the important part of this assignment, not the final result.]
 
-TODO
+The contents are my information, my photo, education experience, working experience, honors & awards, projects, skills and contact information. I choose these contents because they are the things that employers are most interested in.
+
+![image of my first card sorting](card_sorting1.jpg)
+Above is my first card sorting. Contact information is at footer so I include it for each page. Now my navigation has four pages: homepage, experience page, projects page and others page. In homepage, my information and my photo are the most related and should be the first things that audiences see as mentioned in milestone 1. In experience page, both education and working experience can be counted as experience, so I group them together. For projects page, only a list of projects is the appropriate content. Now, I have honors & awards and skills left. I think they both provide additional information but are less important than experience and projects, so I group them together as others.
+
+![image of my second card sorting](card_sorting2.jpg)
+Above is my second card sorting. There are two changes compared to the first one. One is that I include honors & awards in experience, because I think honors & awards are more education-related, and can be considered as part of experience. The other is that I change projects page to projects & skills page and then I include skills in the projects & skills page. I think that skills can be well demonstrated by projects, so projects and skills are highly related and can be grouped together.
+
+I will choose the second card sorting as my final organization of content and navigation, because it is a more reasonable grouping, and contents in each group are more related.
 
 ### Final Organization and Navigation (Milestone 2)
 > Explain how the final organization of content and navigation is appropriate for your target audiences.
 
-TODO
+I choose the second card sorting as my final organization of content and navigation, that is, I have three pages: homepage, experience page and projects & skills page. The target audiences are employers, and they are more interested in experience, projects and skills. Then, they can learn about my education experience, working experience and honors & awards in the experience page. And in the projects & skills page, they can learn about my projects and my skillsets.
 
 
 ## Visual Design
