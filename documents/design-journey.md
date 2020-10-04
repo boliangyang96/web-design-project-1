@@ -90,14 +90,26 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 ### Theme Ideas (Milestone 3)
 > Discuss several ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Feel free to include some hand-drawn sketches (not digital drawings, not mock-ups, not wireframes, etc.) here to document your design process.
 
-TODO
+First theme idea is to show professionalism. Then I went to linkedin website to get some inspiration. I would use a light green background color for my header and dark blue background color for the navigation bar. And I would use a light gray background color for the main body. This color combination is similar to what is used on linkedin webpage. I think this color combination would make the webpage very neat and clean, and thus showing some professionalism. And it is appropriate for the audiences, because it increases readability for them. Also, because I have several sections, I would put some margins between them, then audiences can easily notice different sections.
+
+The second theme idea is to use black as background color. This would show both professionalism and a cool feeling. I would use borders around each section to make the separation of sections much clear in a black background. This is also an appropriate theme idea for the audiences. They can get a sense of professionalism and the borders can let them easier to read.
 
 ### Theme Design (Milestone 3)
 > Discuss your theme designs: how did you come to them, what are their strengths and weaknesses, how do they fit your overall design goals and audiences?
 
 > Emotion is a big part of design. What emotions where you thinking about or trying to convey in your designs?
 
-TODO
+For the first theme, I would use a light green background color for my header and dark blue background color for the navigation bar. I would use a light gray background color for the main body. I then use sans-serif and gray color for the body's text because it is clearer to read. For the h3 title inside each article element, I would use dark blue color, which is consistent with the background color of navigation bar and also it will be easier to separate h3 titles from the section titles. I would also put some margins between them, then audiences can easily notice different sections.
+
+For the second theme, I would use black as background color, white as color for text and green color for section titles. Here, I think white or green can be a contrast to black, therefore, more noticeable in a black background. I would also use sans-serif for the body. I would use borders around each section to make the separation of sections much clear in a black background.
+
+For both themes, I would change the text-decoration for link elements in nav and footer to none if no hovering and underline otherwise. I also would make the font-size for figcaption smaller because I do not want figcaption to take up much spaces.
+
+The first theme may be a better one, because its colors are very similar to what are used on linkedin webpage. But it does not have borders for the sections. The second theme has borders to indicate the separation of sections, but black-color theme is not very often seen in professional websites.
+
+Because I want to show my information, experience and projects, then those themes would increase the readability for audiences and also let the audiences notice different sections more easily. So, the themes fit my overall design goals and audiences.
+
+The emotion or feeling I want to convey is professionalism. And I think the themes above well demonstrate it.
 
 
 ## Rationale

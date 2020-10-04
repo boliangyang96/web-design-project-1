@@ -1,0 +1,69 @@
+body {
+  background-color: black;
+  font-family: sans-serif;
+  color: white;
+}
+
+header hgroup {
+  padding: 10px 0px 5px 20px;
+}
+
+header nav {
+  padding: 5px 0px 5px 0px;
+}
+
+section, header nav {
+  border: 2px solid #bdc6c8;
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: #06e09a;
+  padding: 10px 0px 5px 20px;
+}
+
+article {
+  padding: 0px 0px 5px 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+li a, p a {
+  color: #c3b10f;
+}
+
+img:not(.myPhoto) {
+  background-color: white;
+  width: 60px;
+  height: 60px;
+}
+
+figcaption {
+  font-size: 50%;
+  text-align: left;
+}
+
+figcaption a {
+  padding-left: 10px;
+  color: white;
+  text-decoration: underline;
+}
+
+footer {
+  padding: 20px 0px 20px 20px;
+  border: 2px solid #bdc6c8;
+}
+
+footer h2 {
+  padding: 0px;
+}
+
+hr {
+  border-width: 0px;
+}
