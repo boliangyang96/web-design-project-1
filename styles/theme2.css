@@ -1,3 +1,4 @@
+/* color and font for body */
 body {
   background-color: black;
   font-family: serif;
@@ -5,28 +6,34 @@ body {
   color: white;
 }
 
+/* padding for hgroup */
 header hgroup {
   padding: 10px 0px 5px 20px;
 }
 
+/* padding for nav bar */
 header nav {
   padding: 5px 0px 5px 0px;
 }
 
+/* border and margin for section and nav bar */
 section, header nav {
   border: 2px solid #bdc6c8;
   margin-bottom: 30px;
 }
 
+/* color and padding for h2 title */
 h2 {
   color: #06e09a;
   padding: 10px 0px 5px 20px;
 }
 
+/* padding for article */
 article {
   padding: 0px 0px 5px 20px;
 }
 
+/* change text-decoration and color for link elements */
 a {
   text-decoration: none;
 }
@@ -39,32 +46,47 @@ li a, p a {
   color: #c3b10f;
 }
 
+/* specify the figure width */
+figure.myPhoto {
+  width: 300px;
+}
+
+/* specify the figure width */
+figure.logoFigure {
+  width: 60px;
+}
+
+/* specify the width, height and background-color for img */
 img.logoImg {
   background-color: white;
   width: 60px;
   height: 60px;
 }
 
+/* change to smaller caption, align the caption to center */
 figcaption {
   font-size: 50%;
-  text-align: left;
+  text-align: center;
 }
 
+/* color and text-decoration for link in caption */
 figcaption a {
-  padding-left: 10px;
   color: white;
   text-decoration: underline;
 }
 
+/* padding and border for footer */
 footer {
   padding: 20px 0px 20px 20px;
   border: 2px solid #bdc6c8;
 }
 
+/* padding for h2 title in footer */
 footer h2 {
   padding: 0px;
 }
 
+/* make border-width for hr 0 to hide it */
 hr {
   border-width: 0px;
 }

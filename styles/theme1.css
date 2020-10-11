@@ -1,23 +1,28 @@
+/* color and font for body */
 body {
   background-color: #f2f2f2;
   font-family: sans-serif;
   color: #555555;
 }
 
+/* color for header */
 header {
   background-color: #1cbbac;
   color: white;
 }
 
+/* padding for hgroup */
 header hgroup {
   padding: 10px 0px 5px 35px;
 }
 
+/* color and padding for nav bar */
 header nav {
   background-color: #2e4154;
   padding: 5px 0px 5px 0px;
 }
 
+/* layout nav items */
 nav li {
   display: inline-block;
   margin-right: 20px;
@@ -25,26 +30,31 @@ nav li {
   padding: 5px 10px;
 }
 
+/* center the elements, make them align */
 hgroup, nav ul, section, footer h2, address {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
 
+/* padding for h2 title */
 h2 {
   padding: 10px 0px 5px 20px;
 }
 
+/* padding for article */
 article {
   padding: 0px 0px 5px 20px;
 }
 
+/* horizontal flexbox, use negative margin to align */
 div.divRow {
   display: flex;
   flex-direction: row;
   margin-left: -20px;
 }
 
+/* change text-decoration and color for link elements */
 a {
   text-decoration: none;
 }
@@ -57,28 +67,34 @@ li a, p a {
   color: #1cbbac;
 }
 
+/* specify the figure width */
 figure.myPhoto {
   width: 300px;
 }
 
+/* specify the figure width */
 figure.logoFigure {
   width: 60px;
 }
 
+/* change to smaller caption, align the caption to center */
 figcaption {
   font-size: 50%;
   text-align: center;
 }
 
+/* color and text-decoration for link in caption */
 figcaption a {
   color: #555555;
   text-decoration: underline;
 }
 
+/* color for h3 title in article */
 article h3 {
   color: #2e4154;
 }
 
+/* layout footer */
 footer {
   background-color: #2f2f2f;
   color: white;
@@ -86,10 +102,12 @@ footer {
   margin-top: 25px;
 }
 
+/* padding for h2 title in footer */
 footer h2 {
   padding: 0px;
 }
 
+/* layout horizontal rule */
 hr {
   margin: 20px 0px 20px 0px;
   padding: 0px;
