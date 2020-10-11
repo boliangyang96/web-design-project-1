@@ -10,7 +10,7 @@ header {
 }
 
 header hgroup {
-  padding: 10px 0px 5px 20px;
+  padding: 10px 0px 5px 35px;
 }
 
 header nav {
@@ -18,7 +18,14 @@ header nav {
   padding: 5px 0px 5px 0px;
 }
 
-section, hgroup, ul, footer h2, address {
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+  border: 1px outset #61ede0;
+  padding: 5px 10px;
+}
+
+hgroup, nav ul, section, footer h2, address {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -30,6 +37,12 @@ h2 {
 
 article {
   padding: 0px 0px 5px 20px;
+}
+
+div.divRow {
+  display: flex;
+  flex-direction: row;
+  margin-left: -20px;
 }
 
 a {
@@ -44,13 +57,20 @@ li a, p a {
   color: #1cbbac;
 }
 
+figure.myPhoto {
+  width: 300px;
+}
+
+figure.logoFigure {
+  width: 60px;
+}
+
 figcaption {
   font-size: 50%;
-  text-align: left;
+  text-align: center;
 }
 
 figcaption a {
-  padding-left: 10px;
   color: #555555;
   text-decoration: underline;
 }
@@ -62,7 +82,7 @@ article h3 {
 footer {
   background-color: #2f2f2f;
   color: white;
-  padding: 20px 0px 20px 20px;
+  padding: 20px 0px 20px 35px;
   margin-top: 25px;
 }
 
