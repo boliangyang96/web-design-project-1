@@ -47,11 +47,10 @@ article {
   padding: 0px 0px 5px 20px;
 }
 
-/* horizontal flexbox, use negative margin to align */
+/* horizontal flexbox */
 div.divRow {
   display: flex;
   flex-direction: row;
-  margin-left: -20px;
 }
 
 /* change text-decoration and color for link elements */
@@ -67,6 +66,11 @@ li a, p a {
   color: #1cbbac;
 }
 
+/* align the figure with h2 section title */
+figure {
+  margin-left: 20px;
+}
+
 /* specify the figure width */
 figure.myPhoto {
   width: 300px;
@@ -79,7 +83,7 @@ figure.logoFigure {
 
 /* change to smaller caption, align the caption to center */
 figcaption {
-  font-size: 50%;
+  font-size: 75%;
   text-align: center;
 }
 
